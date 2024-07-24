@@ -13,3 +13,11 @@ h2 {
     text-decoration: underline;
     text-underline-offset: 30%;
 }
+
+p, li {
+    width: 60%;
+}
+
+ol li {
+    margin: 10px 0;
+}
